@@ -45,11 +45,7 @@ git clone https://github.com/plasma-wastaken/REFFTO-PROJECTS.git
 cd REFFTO-PROJECTS
 ```
 
-### 2. Install dependencies (if running locally)
 
-```id="9qpt42"
-pip install numpy
-```
 
 ---
 
@@ -60,11 +56,6 @@ pip install numpy
 1. Upload the `.ipynb` file to Google Colab
 2. Run cells directly in the browser
 
-### 💻 Local Execution
-
-```id="s9jqfi"
-python dl/dl1.py
-```
 
 ---
 
